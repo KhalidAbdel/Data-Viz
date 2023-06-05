@@ -6,7 +6,7 @@ Data sources: https://www.the-numbers.com/box-office-records/worldwide/all-movie
 
 1. Multi-row card: Movies ranking
 2. Area chart: displaying worlwide box office sales through  1982-2023
-3. Clustered columns: comparison between international vs domestic box office sales
+3. Clustered columns: yearly breakdown of international and domestic box office sales
 4. Clustered bar chart: box office sales categories for top trending movies
 5. Pie chart: percentage distribution (international vs domestic sales)
 

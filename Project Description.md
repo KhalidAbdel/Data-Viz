@@ -1,4 +1,4 @@
-All Time Worldwide Box Office
+All-Time Worldwide Box Office Sales
 
 Data contains the top movies based on the cumulative worldwide box office sales.
 The web link was imported into Power BI to create dashboard that aims to show the top 5 films by worldwide box office sales.
